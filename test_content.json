@@ -1,0 +1,1 @@
+﻿{"jsonrpc":"2.0","id":2,"method":"tools/call","params":{"name":"write_content","arguments":{"topic":"SEO Best Practices","keywords":["SEO","optimization","ranking"],"contentType":"blog","wordCount":800,"tone":"professional"}}}

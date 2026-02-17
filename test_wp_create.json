@@ -1,0 +1,1 @@
+﻿{"jsonrpc":"2.0","id":5,"method":"tools/call","params":{"name":"create_wordpress_post","arguments":{"title":"Test Post - QA Testing","content":"This is a test post created during QA testing.","excerpt":"Test post","status":"draft","seo_title":"Test SEO Title","seo_description":"Test SEO Description"}}}
